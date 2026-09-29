@@ -41,6 +41,8 @@ class Solution {
         }
     }
 }
+
+
 Accepted
 Runtime: 2 ms
 Case 1
